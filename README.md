@@ -56,10 +56,10 @@ Despite these limitations, the project successfully demonstrates the full data s
 
 Our team divided responsibilities across the stages of the data science lifecycle while still collaborating on major decisions throughout the project.
 
-Data Engineer: Responsible for setting up the notebook environment, importing the dataset, cleaning the data, handling missing values, and preparing features for modeling.
-Researcher: Developed the project question, explained the background of the dataset, and connected the analysis to the logic of Minecraft mob behavior.
-Model Builder: Built the decision tree and random forest pipelines, ran training and hyperparameter tuning, and compared model performance.
-Red Team / Evaluator: Reviewed model outputs, checked for overfitting, interpreted confusion matrices and classification reports, and analyzed the misclassified examples.
-Final Reviewer: Organized the notebook, improved clarity in markdown explanations, and ensured the final project told a clear and consistent story.
+Data Engineer: (Michael) Responsible for setting up the notebook environment, importing the dataset, cleaning the data, handling missing values, and preparing features for modeling.
+Researcher: (Michael & Braden) Developed the project question, explained the background of the dataset, and connected the analysis to the logic of Minecraft mob behavior.
+Model Builder: (Braden) Built the decision tree and random forest pipelines, ran training and hyperparameter tuning, and compared model performance.
+Red Team / Evaluator: (Mani) Reviewed model outputs, checked for overfitting, interpreted confusion matrices and classification reports, and analyzed the misclassified examples.
+Final Reviewer: (Braden) Organized the notebook, improved clarity in markdown explanations, and ensured the final project told a clear and consistent story.
 
 Although different team members may have focused on different areas, the final notebook reflects collaboration across data preparation, modeling, interpretation, and presentation.
